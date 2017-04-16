@@ -1,0 +1,7 @@
+ask_time=['what is the time','what time is it','tell me the time']
+who_are_you=['who are you','what is your name','who r u']
+greetings=['hi','hello','hai','hey']
+how_are_you=['how are you','how is it going','what\'s up','whats up']
+about_creators=['who created you','who made you','who is your father','who is your parents','who is your mother']
+about_skills=['what can you do','what are your skills','what are your abilities']
+where_are_you=['where is your house','where is your home','where do your live','tell me your address','what is your address','where are you']
